@@ -1,6 +1,9 @@
 ### Myself from Robotics Prespective
-I am Soham Sarkar a robotics and controls instructor at Arizona State University. 
+I am Soham Sarkar a robotics and controls engineering instructor at Arizona State University. 
+
 - Building robots
+- Creating new course material
+- Mentoring students for a better experience
 - Learning how to teach
 - Building embedded systems for Robotics Learning
 
@@ -16,7 +19,7 @@ I am Soham Sarkar a robotics and controls instructor at Arizona State University
 
 
 ### Connect with me:
-[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/soham-sarkar-483566129/)
+[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-sarkar-483566129/)
 
 
 <br />
