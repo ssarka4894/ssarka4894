@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center" style="max-width: 700px;">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=7B68EE&center=true&vCenter=true&width=435&lines=I'm+ChihYi;This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=7B68EE&center=true&vCenter=true&width=435&lines=I'm+SOHAM+SARKAR;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
     <h2 style="font-size: 36px;">🚀 About Me</h2>
     <p>I am an Electrical Engineering Doctorate Student, specializing in Robotics and Controls Engineering. </p>
