@@ -1,17 +1,17 @@
 ### Myself from Robotics Prespective
 I am Soham Sarkar a robotics and controls engineering instructor at Arizona State University. 
 
-- Building robots
-- Creating new course material
+- Learning how to teach, creating new course material
 - Mentoring students for a better experience
-- Learning how to teach
 - Building embedded systems for Robotics Learning
+- Investigating control algorithms
+- Implementing them on Robot Hardware
 
 
 ### My Interest :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,docker,vscode,python,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,docker,matlab,html,css,javascript,java,vscode,python,tensorflow" />
   </a>
 </p>
 
