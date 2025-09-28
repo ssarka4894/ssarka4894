@@ -1,4 +1,4 @@
-### Myself from Robotics Prespective
+### Let's keep Tinkering Together
 I am Soham Sarkar a robotics and controls engineering instructor at Arizona State University. 
 
 - Learning how to teach, creating new course material
