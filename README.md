@@ -11,7 +11,7 @@ I am Soham Sarkar a robotics and controls engineering instructor at Arizona Stat
 ### My Interest :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,docker,matlab,html,css,javascript,java,vscode,python,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,docker,matlab,html,css,javascript,java,vscode,python,tensorflow,ros,gazebo" />
   </a>
 </p>
 
