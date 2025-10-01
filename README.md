@@ -61,7 +61,7 @@
    <p>Peek into my GitHub stats to see how I juggle code. Dive in to check out the milestones of digital journey.</p>
    <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; height: 100%;">
       <div style="display: flex; margin-left: 20px;">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krazyjoy&theme=github_dark" alt="ChihYi's GitHub Stats" style="max-width: 100%;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssarka4894&theme=github_dark" alt="ChihYi's GitHub Stats" style="max-width: 100%;">
       </div>
       <div style="display:flex; margin-left: 20px;">
          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssarka4894&theme=github_dark" style="max-width: 100%;">
@@ -74,8 +74,8 @@
       <img src="https://th.bing.com/th/id/OIP.8mYpcWrlTWieOg5iFpp67AHaHa?rs=1&pid=ImgDetMain" style="width: 64px; height:64px; margin-right: 10px">Github Commits
    </h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-      <img src="https://raw.githubusercontent.com/krazyjoy/krazyjoy/output/github-contribution-grid-snake.svg">
-      <img src="https://raw.githubusercontent.com/krazyjoy/krazyjoy/output/github-contribution-grid-snake-dark.svg">
+      <img src="https://raw.githubusercontent.com/ssarka4894/ssarka4894/output/github-contribution-grid-snake.svg">
+      <img src="https://raw.githubusercontent.com/ssarka4894/ssarka4894/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 
