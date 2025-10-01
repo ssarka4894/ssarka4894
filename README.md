@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,html,css,javascript,java,python,bash" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,html,css,javascript,java,python,r,bash" />
   </a>
 </p>
 
@@ -41,6 +41,15 @@
    </h2>
    <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality.</p>
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jupyter,anaconda,pybullet,rstudio,labview,pytorch,opencv,autodesk,ros" />
+  </a>
+</p>
+
+
+<!--
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -51,6 +60,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </div>
+-->
 
 <!--Stats Section-->
 <div align="center" style="max-width: 700px; margin: 20px;">
@@ -69,9 +79,10 @@
    </div>
 </div>
 
+<!--
 ###  Github Stats:
   <img align="center" alt="noshluk2's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ssarka4894&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+-->
 
 <div align="center">
    <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
