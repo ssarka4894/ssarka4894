@@ -29,14 +29,14 @@
    </h2>
    <p>Here's a glance at the tools I specialize in:</p>
 
-- Casadi
-- Gazebo
-- Simulink
-- Mujoco
-- Deepmind Control Suite
-- Jupyter Notebook
-- Google Collab
-- PyBullet
+Casadi
+Gazebo
+Simulink
+Mujoco
+Deepmind Control Suite
+Jupyter Notebook
+Google Collab
+PyBullet
 
 <!--
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,opencv,ros,simulink, collab" />
+    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,opencv,ros" />
   </a>
 </p>
 
