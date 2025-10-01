@@ -69,14 +69,6 @@
    </div>
 </div>
 
-<div align="center" style="max-width: 700px; margin: 30px;">
-   <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
-      <img src="https://th.bing.com/th/id/OIP.8mYpcWrlTWieOg5iFpp67AHaHa?rs=1&pid=ImgDetMain" style="width: 64px; height:64px; margin-right: 10px">Github Commits
-   </h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-      <img src="https://raw.githubusercontent.com/ssarka4894/ssarka4894/output/github-contribution-grid-snake.svg">
-      <img src="https://raw.githubusercontent.com/ssarka4894/ssarka4894/output/github-contribution-grid-snake-dark.svg">
-</div>
 
 
 <div align="center">
