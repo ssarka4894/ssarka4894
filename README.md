@@ -25,14 +25,26 @@
 <div align="center" style="max-width: 700px; margin: 15px;">
    <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
       <img src="cloud_service.png" style="width: 64px; height: 64px; margin-right: 15px;"> 
-    Cloud Technologies
+    Tools
    </h2>
-   <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
+   <p>Here's a glance at the tools I specialize in:</p>
 
+- Casadi
+- Gazebo
+- Simulink
+- Mujoco
+- Deepmind Control Suite
+- Jupyter Notebook
+- Google Collab
+- PyBullet
+
+<!--
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
+-->
+
 
 <div align="center" style="max-width: 700px; margin: 15px;">
    <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
@@ -44,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jupyter,anaconda,pybullet,rstudio,labview,pytorch,opencv,autodesk,ros" />
+    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,opencv,ros,simulink, collab" />
   </a>
 </p>
 
