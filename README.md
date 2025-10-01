@@ -4,7 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=7B68EE&center=true&vCenter=true&width=435&lines=I'm+SOHAM+SARKAR;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
     <h2 style="font-size: 36px;">🚀 About Me</h2>
-    <p>I am an Electrical Engineering Doctorate Student, specializing in Robotics and Controls Engineering. </p>
+    <p>I am an Electrical Engineering Ph.D. student with a strong background in robotic control algorithms, deep reinforcement learning, convex optimization, advanced system integration, with hands-on experience in deploying controllers in robotic equipments. </p>
 </div>
 
 <div align="center" style="max-width: 700px; margin: 15px;">
@@ -14,13 +14,13 @@
    </h2>
    <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 
-  <img src="https://2.bp.blogspot.com/-FUG-UQ1_j7Q/WXsilQ7X6OI/AAAAAAAAMmg/X9bvx_ciZj4skHocxeoZiibZSg-DCQfCACLcBGAs/s1600/java.png" style="width: 64px; height: 48px; margin-right: 5px;" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/><br/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,html,css,javascript,java,python,bash" />
+  </a>
+</p>
+
+
 
 <div align="center" style="max-width: 700px; margin: 15px;">
    <h2 style="display: flex; justify-content: center; align-items: center;" class="section-heading">
