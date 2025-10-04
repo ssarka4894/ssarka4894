@@ -27,18 +27,19 @@
       <img src="cloud_service.png" style="width: 64px; height: 64px; margin-right: 15px;"> 
     Tools
    </h2>
-   <p>Here's a glance at the tools I specialize in:</p>
-   <p> Casadi  </p>
-   <p> Gazebo  </p>
-   <p> Simulink </p>
-   <p> Mujoco </p>
-   <p> Deepmind Control Suite </p>
-   <p> Jupyter Notebook </p>
-   <p> Google Collab </p>
-   <p> PyBullet </p>
-   <p> TensorFlow </p>
-   <p> Gazebo </p>
-   <p> Simmechanics </p>
+
+ <p>Here's a glance at the tools I specialize in:</p>
+   <ol>
+    <li>Casadi</li>
+    <li>Gazebo</li>
+    <li>Simulink</li>
+    <li>Deepmind Control Suite</li>
+    <li>Jupyter Notebook</li>
+    <li>Google Collab</li>
+    <li>PyBullet</li>
+    <li>Mujoco</li>
+    <li>Simmechanics</li>
+  </ol>   
 
 <!--
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
