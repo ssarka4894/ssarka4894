@@ -28,15 +28,17 @@
     Tools
    </h2>
    <p>Here's a glance at the tools I specialize in:</p>
-
-Casadi
-Gazebo
-Simulink
-Mujoco
-Deepmind Control Suite
-Jupyter Notebook
-Google Collab
-PyBullet
+   <p> Casadi  </p>
+   <p> Gazebo  </p>
+   <p> Simulink </p>
+   <p> Mujoco </p>
+   <p> Deepmind Control Suite </p>
+   <p> Jupyter Notebook </p>
+   <p> Google Collab </p>
+   <p> PyBullet </p>
+   <p> TensorFlow </p>
+   <p> Gazebo </p>
+   <p> Simmechanics </p>
 
 <!--
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
